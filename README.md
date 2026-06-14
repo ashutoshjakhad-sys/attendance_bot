@@ -63,6 +63,7 @@ This project is designed as a learning initiative to:
 - Potential improvements to UI/UX
 - Enhanced database functionality
 - Integration with external systems
+- Addition of login functionality
 
 ## Contributing
 
